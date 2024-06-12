@@ -76,7 +76,7 @@ cd servidor-jsonserver
 Com o Node.js instalado, você pode usar o npm (Node Package Manager) para instalar o json-server globalmente:
 
 ```sh
-npm install -g json-server
+npm install json-server@0.17.4
 ```
 
 ### 5. Executar o json-server
