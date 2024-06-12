@@ -8,3 +8,6 @@ server.use(router)
 server.listen(3000, () => {
   console.log('JSON Server is running')
 })
+
+// Export the Server API
+module.exports = server
