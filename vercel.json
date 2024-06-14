@@ -5,7 +5,7 @@
       "src": "server.js",
       "use": "@vercel/node",
       "config": {
-        "includeFiles": ["/tmp/db.json"]
+        "includeFiles": ["data/db.json"]
       }
     }
   ],
